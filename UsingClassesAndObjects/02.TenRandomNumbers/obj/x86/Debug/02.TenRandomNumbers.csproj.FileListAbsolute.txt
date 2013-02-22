@@ -1,0 +1,4 @@
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\02.TenRandomNumbers\bin\Debug\02.TenRandomNumbers.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\02.TenRandomNumbers\bin\Debug\02.TenRandomNumbers.pdb
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\02.TenRandomNumbers\obj\x86\Debug\02.TenRandomNumbers.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\02.TenRandomNumbers\obj\x86\Debug\02.TenRandomNumbers.pdb

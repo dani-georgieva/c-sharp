@@ -1,0 +1,4 @@
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\06.StringNumbersSplit\bin\Debug\06.StringNumbersSplit.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\06.StringNumbersSplit\bin\Debug\06.StringNumbersSplit.pdb
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\06.StringNumbersSplit\obj\x86\Debug\06.StringNumbersSplit.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\06.StringNumbersSplit\obj\x86\Debug\06.StringNumbersSplit.pdb

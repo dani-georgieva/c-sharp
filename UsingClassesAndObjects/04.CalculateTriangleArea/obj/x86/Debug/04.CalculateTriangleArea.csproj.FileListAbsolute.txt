@@ -1,0 +1,4 @@
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\04.CalculateTriangleArea\bin\Debug\04.CalculateTriangleArea.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\04.CalculateTriangleArea\bin\Debug\04.CalculateTriangleArea.pdb
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\04.CalculateTriangleArea\obj\x86\Debug\04.CalculateTriangleArea.exe
+C:\Users\piranche\Documents\Visual Studio 2010\Projects\UsingClassesAndObjects\04.CalculateTriangleArea\obj\x86\Debug\04.CalculateTriangleArea.pdb
